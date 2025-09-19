@@ -4,4 +4,19 @@
     height: 500px;
     background-size: cover;
     width: 1000px;
+    border-radius: 18px;
 }
+
+p{
+    font-size: larger;
+    font-weight: 500;
+}
+
+body{
+    background-color: black;
+}
+
+.bgLights{
+    box-shadow: 5px 5px 50px 1px rgba(245, 245, 245, 0.322);
+}
+
